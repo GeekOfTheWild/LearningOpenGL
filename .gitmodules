@@ -1,3 +1,6 @@
 [submodule "chronotext-cross"]
 	path = chronotext-cross
 	url = https://github.com/arielm/chronotext-cross
+[submodule "emsdk"]
+	path = emsdk
+	url = https://github.com/emscripten-core/emsdk.git
